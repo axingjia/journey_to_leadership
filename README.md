@@ -671,10 +671,141 @@ SKIP
 * Situational leadership applies during the initial stages of a project, when idea formation is important, and during the various subsequent phases of a project, when implementation issues are important. The fluid nature of situational leadership makes it ideal for applying to subordinates as they move forward or go backward (regress) on various projects. Because situatioanl leadership stresses adapting to followers, it is ideal for use with followers whose commitment and competence change over the course of a project.
 * Given the breadth of the situational approach, it is applicable in almost any type of organization, at any level, for nearly all types of tasks. It is an encompassing model with a wide range of applications.
 
+## CASE STUDIES
+* To see how situational leadership can be applied in different organizational settings, you may want to assess Case 5.1, 5.2, and 5.3. For each of these cases, ask yourself what you would do if you found yourself in a similar situation. At the end of each case, there are questions that will help you analyze the context from the perspective of situational leadership.
+
+#### CASE 5.1: What Style Do I Use?
+* Bruce Cannon is the owner of a 5-year-old small plastics company that employs about 20 people. The company consists of three areas: engineering, sales, and production. For each of these areas, there is a single manager.
+* Rick Nakano heads the engineering crew. He is a seasoned engineer and is the oldest employee in the company (he is 55 years old). Rick was hired because of his engineering ability and experience.
+* Before joining the company, Rick worked for 20 years as an engineer for Ford Motor Company. His coworkers perceive him as very competent, even-tempered, and interested in the company.
+* Rick has been spending most of his time in recent weeks on development a long-range plan for the company. His goal is to develop a creative model for making decisions about future expenditures for materials, equipment, plant development, and personnel. Ricky feel good about the way upper management has reacted to the first drafts of his plans.
+* Beth Edwards heads t he sales force, which is the smallest unit in the company. Beth is the most recent hire in the company and has 15 years of sales experience in a different product area. Beth's peers see her as highly motivated but not too knowledgeable about the company's products. Beth's goal is to increase the company's annual sales by 30%. However, the first quarter sales figures indicate the rate of growth to be only 2%.
+* Although Beth has been upbeat since the day she arrived. In recent weeks there have been problems in her department. Her sales staff talks about how little she knows about the plastic industry. In discussions about new products, Beth often is confused. In addition, she has difficulty describing the company's capabilities to customers because she does not understand fully how plastic company of this type functions.
+* Steve Lynch is the manger of production and has been with the comapny since its inception. Steve started with the company just out of high school, working on the line, and move up in the comapny as a result of his hard work. His goal is to streamline production and decrease costs by 10%. He knows production backward and forward but is a bit apprehensive about his new role as production manager. In fact, Steve is afraid he might fall as manager. He does not know whether he is ready to have others depend on him when he has always been the one depending on others. The owner, Bruce, has great faith in Steve and has had several meetings with him to clarify his role and reassure him that he can do the work. He is certain that Steve will be an outstanding production manager.
+* Bruce meets weekly with each of his managers to talk about how their groups are fitting in with the overall company goals. In his upcoming weekly conference, he wants to discuss with them what new procedures they could implement within their departments to improve their long-term performance. Bruce is wondering how he should approach each of his managers.
+
+Questions
+1. According to the basic assumptions of situational leadership, where would you place the three managers in regard to levels of development in the SLII model?
+2. If you were Bruce, would you act the same toward each of the three managers?
+3. Which conference would be the hardest for you, and which would be the easiest? Why?
+
+#### CASE 5.2: Why Aren't They Listening?
+* Jim Anderson is a training specialist in the human resource department of a large pharmaceutical company. In response to a recent companywide survey, Jim specially designed a 6-week training program on listening and communication skills to encourage effective management in the company. Jim's goals for the seminar are twofold: for participants to learn new communication behaviors and for participants to enjoy the seminar so they will want to attend future seminars.
+* The first group to be offered the program was middle-level managers in research and development. This group consisted of about 25 people, nearly all of whom had advanced degrees. Most of this group had attended several in-house training programs in the past, so they had a sense of how the seminar would be designed and run. Because the previous seiminars had not always been very productive, many of the managers felt a little disillusioned about coming to the seminar. As one of the managers said, "Here we go again: a fancy in-house training program from which we will gain nothing."
+* Because Jim recognized that the managers were very experienced, he did not put many restrictions on attendance and participation. He used a variety of presentation methods and actively solicited involvement from the managers in the seminar. Throughout the first two sessions, he went out of his way to be friendly with the group. He gave them frequent coffee breaks during the sessions; during these breaks, he promoted socializing and networking.
+* During the third session, Jim became aware of some difficulties with the seminar. Rather than the full complement fo 25 managers, attendance had dropped to about only 15 managers. Although the starting time was established at 8:30, attendance had been arriving as late as 10:00. During the afternoon session, some of the managers were leaving the sesions to return to their offices at the company.
+* As he approached the fourth session, Jim was apprehensive about why things had been going poorly. He had become quite uncertain about how he should approach the group. Many questions were running through his mind: Had he treated the managers in the wrong way? had he been too easy regarding attendance as the sessions? Should he have said something about the managers skipping out in the afternoon? Were the participants taking the seminar seriously? Jim was certain that the content of the seminar was innovative and substantive, but he could not figure out what he could change to make the program more successful. He sensed that his style was not working for this group, but he didn't have a clue as to how he should change what he was doing to make the sessions better.
+
+Questions
+1. According to the SLII model, what style of leadership is Jim using to run the seminars?
+2. At what level are the managers?
+3. From a leadership perspective, what is Jim doing wrong?
+4. What specific changes could Jim implement to improve the seminar?
+
+#### CASE 5.3: Getting the Message Across
+* Ann Caldera is the program director of a college campus radio station (WCBA) that is supposed by the university. WCBA has a long history and is viewed favorably by students, faculty, the board of trustees, and the people in the community.
+* Ann does not have a problem getting students to work at WCBA. In fact, it is one of the most sought-after university-related activities. The few students who are accepted to work at WCBA are always highly motivated because they value the opportunities to get hands-on media experience. In addition, those who are accepted tend to be highly confident (sometimes naively so) of their own radio ability. Despite their eagerness, most of them lack a fully understanding of the legal responsibilities of being on the air.
+* One of the biggest problems that confronts Ann semester is how to train new students to follow the rules and procedures of WCBA when they are doing on-air announcing for news, sports, music, and other radio programs. It seems as if every semester numerous incidents arise in which an announcer violates in no small way the FCC rules for appropriate airtime communication. For example, rumor has it that one year a first-year student disc jocket on the evening shift announced that a new band was playing in town, the cover was $10, and everyone should go to hear the group. Making an announcement such as this is a clear violation of FCC rules: It is illegal.
+* Ann is frustrated with her predicament but can not seem to figure out why it keeps occuring. She puts a lot of time and effort into helping new DJs, but they just do not seem to get the message that working at WCBA is a serious job that obeying the FCC rules is an absolute necessity. Ann wonders whether her leadership style is missing the mark.
+* Each semester, Ann gives the students a very complete handout on policies and procedures. In addition, she tries to get to know each of the new students personally. Because she wants everybody to be happy WCBA, she tries very hard to build a relational climate at the station. Repeatly, students that Ann is the nicest advisor on campus. Because she recognizes the quality of her students, Ann mostly lets them do what they want at the station.
+
+Questions
+1. What's the problem at WCBA?
+2. Using SLII as a basis, what would you advise Ann to do differently at the station?
+3. Based on situational leadership, what creative schemes could Ann use t o reduce FCC infractions at WCBA?
+
+## LEADERSHIP INSTRUMENT
+* Although different versions of instruments have been developed to measure situational leadership, nearly all of them are constructed similarly. As a rule, the questionnaires provide 12 to 20 work-related situations and ask respondents to select their preferred style for each situation from four alternatives. The situations and styles are written to directly represent the leadership styles of the four quadrants in the model. Questionnaire responses are scored to give respondents information about their primary and secondary leadership styles, their flexibility, and their leadership effectiveness.
+* The brief questionnaire provided in this section illustrates how leadership style is measured in questionnaires of situational leadership. For each situation on the questionnaire, you have to identify the development level of employees in the situation and then select one of the four response alternatives that indicate the style of leadership you would use in that situation.
+* Expanded version of the brief questionnaire give respondents an overall profile of their leadership style. By analyzing the alternatives a respondent makes on the questionnaire, one can determine that respondent's primary and secondary leadership styles. By analyzing the range of choices a respondent makes, one can determine that respondent's leadership flexibility. Leadership effectiveness and diagnostic ability can be measured by analyzing the number of times the respondent made accurate assessments of a preferred leadership style.
+* In addition to these self-scored questionnaires, situational leadership uses similar forms to tap the concurrent perceptions that bosses, associates, and followers have of a person's leadership style. These questionnaires give respondents a wide range of feedback on their leadership styles and the opportunity to compare their own views of leadership with the way others view them in a leadership role.
+
+#### Situational Leadership
+
+Situation 1
+* Because of budget restrictions imposed on your department, it is necessary to consolidate. You are thinking of asking a highly capable and experienced member of your department to take charge of the consolidation. This person has worked in all areas of your department and has the trust and respect of most of the staff. She is very willing to help with the consolidation.
+
+* A. Assign the project to her and let her determine how to accomplish it.
+* B. Assign the task to her, indicate to her precisely what must be done, and supervise her work closely.
+* C. Assign the task to her and provide support and encouragement as needed.
+* D. Assign the task to her and indicate to her precisely what needs to be done but make sure you incorporate her suggestions
+
+Development level _____ Action ______
+
+Situation 2
+* You have recently been made a department head of the new regional office. In getting to know your department staff, you have noticed that one of your inexperienced employees is not following through on assigned tasks. She is enthusiatic about her new job and wants to get ahead in the organization.
+
+* A. Discuss the lack of follow-through with her and explore the alternative ways this problem can be solved.
+* B. Specify what she must do to complete the tasks but incorporate any suggestions she may have.
+* C. Define the steps necessary for her to complete the assigned tasks and monitor her performance frequently.
+* D. Let her know about the lack of follow-through and give her more time to improve her performance
+
+Development level _____ Action ________
+
+Situation 3
+* Because of a new and very important unit project, for the past 3 months you have made sure that your staff members understood their responsibilities and expected level of performance, and you have supervised them closely. Due to some recent project setbacks, your staff members have become somewhat discouraged. Their morale has dropped, and so has their performance.
+
+* A. Continue to direct and closely supervise their performance.
+* B. Give the group members more time to overcome the setbacks but occasionally check their progress
+* C. Continue to define group activities but involve the group members more in decision making and incorporate their ideas.
+* D. Participate in their problem-solving activities and encourage and support their efforts to overcome the project setbacks
+
+Situation 4
+* As a director of the sales department, you have asked a member of your staff to take charge of a new sales campaign. You have worked with this person on other sales campaigns, and you know he has the job knowledge and experience to be successful at new assignments. However, he seems a little unsure about his ability to do the job.
+
+* A. Assign the new sales campaign to him and let let him function on his own
+* B. Set goals and objectives for this new assignment but consider his suggestions and involve him in decision making
+* C. Listen to his concerns but assure him he can do the job and support his efforts.
+* D. Tell him exactly what the new campaign involves and what you expect of him, and supervise his performance closely.
+
+####
+* A short discussion of the correct answers to the brief questionnaire will help to explain the nature of situational leadership questionnaires.
+* Situation I is the brief questionnaire describes a common problem faced by organizations during downsizing: the need to consolidate. In this particular situation, the leader has identified a person to direct the downsizing project who appears to be highly competent, experienced, and motivated. According to the SLII model, this person is at Developmental Level 4, which calls for a delegative approach. Of the four response alternatives, it is the A) response, "Assign the project to her and let her determine how to accomplish it," that best represents delegating (S4): low supportive-low directive leadership.
+* Situation 2 describes a problem familiar to leaders at all levels in nearly all organizations: lack of follow-through by an enthusiatic employee. In the given example, the employee falls in Developmental Level 1 because she lacks the experience to do the job even though she is highly motivated to succeed. The SLII approach prescribes directing (SI) leadership for this type of employee. She needs to be told when and how to do her specific job. After she is given directions, her performance should be supervise closely. The correct response is C), "Define the steps necessary to complete the assign tasks and monitor her performance frequently"
+* Situation 3 describes a very different circumstance. In this situation, the employees seem to have developed some experience and an understanding of what is required of them, but they have lost some of their motivation to complete the task. Their performance and commitment have stalled because of recent setbacks, even though the leader has been directing them closely. According to SLII, the correct response for the leader is the shift to a more supportive coaching style (S2) of leadership. The action response that reflects coaching is C), "Continue to define group activities but involve the group members more in decision making and incorporate their ideas."
+* Situation 4 describes some of the concerns that arise for a director attempting to identifying the correct person to head a new sales campaign. The person identified for the position obviously has the skills necessary to do a good job with the new sales campaign, but he appears apprehensive about his his own abilities. In this context, SLII suggests that the director should use a supportive style (S3), which is consistent with leading employees who are competent but lacking a certain degree of confidence. A supportive style is represented by action response C), "Listen to his concerns but assure him he can do the job and support his efforts"
+* Now select two employees. Diagnose their current development level on three different tasks and your style of leadership in each situation. Is there a match? If not, what specifically can you do for them as a leader to ensure that they have what they need to succeed?
 
 
+# Contingency Theory
 
-page 110
+## DESCRIPTION
+* Although several approaches to leadership could be called contingency theories, the most widely recognized is Fiedler's. Contingency theory is a leader-match theory, which means it tries to match leaders to appropriate situations. It is called contingency because it suggests that a leader's effectiveness depends on how well the leader's style fits the context. To understand the performance of leaders, it is essential to understand the situations in which they lead. Effective leadership is contingent on matching a leader's style to the right setting.
+* Fiedler developed contingency theory by studying the styles of many different leaders who worked in different contexts, primarily military organizations. he assessed leaders' styles, the situations in which they worked, and whether they were effective. After analyzing the styles of hundreds of leaders who were both good and bad, Fiedler and his colleagues were able to make empirically grounded generationalizations about which styles of leadership were best and which styles were worst for a given organizational context.
+* In short, contingency theory is concerned with styles and situations. it provides the framework for effectively matching the leader and situation.
+
+#### Leadership Styles
+* Within the framework of contingency theory, leadership styles are described as task motivated or relationship motivated. Task-motivated leaders are concerned primarily with reaching goal, whereas relationship-motivated leaders are concerned with developing close interpersonal relationships. To measure leader styles, Fiedler developed the Least Preferred Coworker (LPC) scale. Leaders who score high on this scale are described as relationship motivated, and those who score low on the scale are identified as task motivated.
+
+#### Situational Variables
+* Contingency theory suggests that situations can be characterized in terms of three factors: leader-member relations, task structure, and position power. Leader-member relations consist of the group atmosphere and the degree of confidence, loyalty, and attraction that followers feel for their leader. If group atmosphere is positive and subordinates trust, like, and get along with their leader, the leader-member relations are defined as good. On the other hand, if the atmosphere is unfriendly and friction exists within the group, the leader-member relations are defined as poor.
+* The second situational variable, task structure, is the degree to which the requirements of a task are clear and spelled out. Tasks that are completely structured tend to give more control to the leader, whereas vague and unclear tasks lessen the leader's control and influence. A task is considered structured when a) the requirements of the task are clearly stated and known by the people required to perform them, b) the path to accomplishing the task has few alternatives, c) completion of the task can be clearly demonstrated, and d) only a limited number of correct solution to the task exist. An example of a highly structured task is cleaning the milkshake machine at McDonald's. The rules for doing it are clearly stated to the employees, there is only one way to do it, whether it has been done can be verified, and whether it has been done correctly can also be determined easily. An example of a highly unstructured task is the task of running a fundraiser for a local volunteer organization. Running a fundraiser does not have a clear set of rules to follow, there are many alternative ways of doing it, one can not verify the corrections of the way it has been done, and no single best way exists to do it.
+* Position power, the third characteristic of situations, is the amount of authority a leader has to reward or to punish followers. It includes the legitimate power individuals acquire as a result of the position they hold in an organization. Position power is strong if a person has the authority to hire and fire or give raises in rank or pay; it is weak if a person does not have the authority to do these things.
+* Together, these three situational factors determine the favorableness of various situations in organizations. Situations that are rated most favorable are those having good leader-follower relations, defined tasks, and strong leader-position power. Situations that are rated least favorable have poor leader-follower relations, unstructured tasks, and weak leader-position power. Situations that are rated moderately favorable fall between these two extremes.
+* Based on research findings, contingency theory posits that certain styles are effective in certain situations. People who are task motivated (low LPC score) will be effective in both very favorable and very unfavorable situations--that is, in situations that are going along very smoothly or situations that are out of control. People who are relationship motivated (high LPC score) are effective in moderately favorable situations--that is, in situations in which there is some degree of certainty but things are neither completely under their control nor completely out of their control.
+* It is not entirely clear why leaders with high LPC scores are effective in moderately favorable situations or why leaders with low LPC scores are effective in both very favorable and very unfavorable situations. Fiedler's interpretation of the theory adds a degree of clarity to this issue. he provides the following line of reasoning for why leaders who are working in the "wrong" (i.e., mismatched) situation are ineffective:
+
+* a) A leader whose LPC style does not match a particular situation experiences stress and anxiety;
+* b) under stress, the leader reverts to less mature ways of coping that were learned in early development; and
+* c) the leader's less mature coping style results in poor decision making which results in negative work outcomes.
+
+* Although various interpretations of contingency theory can be made, researchers are still unclear regarding the inner workings of the theory.
+
+## HOW DOES CONTINGENCY THEORY WORK?
+* By measuring a leader's LPC score and the three situational variables, one can predict whether the leader is going to be effective in a particular setting. The relationship between a leader's style and various types of situations is illustrated in Figure 6.1. The figure is best understood by interpreting the rows from top to bottom. For example, a situation that has good leader-member relations, a structured task, and strong position power would fall in Category 1 or preferred leadership style. Alternatively, a situation that has poor leader-member relations, a structured task, and weak position power would fall in Category 6 of leadership style. By assessing the three situational variables, one can place any organizational context in one of the eight categories represented in Figure 6.1.
+* Once the nature of the situation is determined, the fit between the leader's style and the situation can be evaluated. The figure indicates the low LPC's (low LPC score) are effective in Categories 1,2,3, and 8, whereas high LPCs (high LPC score) are effective in Categories 4,5,6,and 7. Middle LPCs are effective in Category 1, 2, and 3. If a leader's style matches the appropriate category in the model, that leader will be effective; if a leader's style does not match the category, that leader will be effective.
+* It is important to point out that contingency theory stresses that leaders are not effective in all situations. If your style is a good match for the situation in which you work, you will succeed at your job. If your style does not match the situation, you probably will fail.
+
+## STRENGTHS
+* Contingency theory has several major strengths. First, it is supported by a great deal of empirical research. In an era in which print and electronic media abound with accounts of "how to be a successful leader", contingency theory offers an approach to leadership that has a long tradition. Many researchers have tested it and found it to a valid reliable approach to explaining how effective leadership can be achieved. Contingency theory is grounded in research.
+* Second, contingency theory has broadened our understanding of leadership by forcing us to consider the impact of situations on leaders. Before contingency theory was developed, leadership theories focused on whether there was a single, best type of leadership (e.g., trait approach). However, contingency theory emphasized the importance of focusing on the relationship between the leader's style and the demands of various situations. In essence, contingency theory shifted the emphass to leadership contexts, particularly the link between the leader and the situations.
+* Third, contingency theory is predictive and therefore provides useful information about the type of leadership that is most likely to be effective in certain contexts. From the data provided by the LPC scale and the descriptions of three aspects of a situation (i.e., leader-member relations, task structure, and position power), it is possible to determine the probability of success for a given person in a given situation. This gives contingency theory power that other leadership theories do not have.
+* Fourth, this theory does not require that people be effective in all siutations. So often leaders in organizations feel the need to be all thigns to all people, which may be asking too much of them. Contingency theory argues that leaders should not expect to be able to lead in every situation. Companies should try to place leaders in optimal situations, in situations that are ideal for their leadership style. When it is obvious that leaders are in the wrong siutation, efforts should be made to change the work variables or move the leader to another context. Contingency theory matches the leader and the situation, but does not demand that the leader fit every situation.
+* Fifth, contingency theory provides data on leaders' styles that could be useful to organizations in developing leadership profiles. The LPC score one piece of information that could be used, along with other assessments in human resource planning, to develop profiles or individuals to determine how and where they would best serve an organization.
+
+## CRITICISMS
+
+PAGE 128
 
 # Chapter 12: Team Leadership
 
