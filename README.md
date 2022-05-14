@@ -855,8 +855,38 @@ Questions
 * Middle LPCs are socioindependent. In the context of work, they are self-directed and not overly concerned with the task or with how others view them. They are more reoved from the situation and act more independently than low or high LPCs.
 * High LPCs are motivated by relationships. These people derive their major satisfaction in an organization from interpersonal relationships. A high LPC sees positive qualities even in the coworker she or he least prefers, and even if the high LPC does not work well with that person. In an organizational setting, the high LPC attends to tasks, but only after she or he is certain that the relationship between people are in good shape
 
+# Chapter 7: Path-Goal Theory
 
-PAGE 128
+## DESCRIPTION
+* Path-goal theory is about how leaders motivate subordinates to accomplish designated goals. Drawing heavily from research on what motivates employees, path-goal theory first appeared in the leadership literature in the early 1970s in the work of Evans, House, House and Dessler, and House and Mitchel. The stated goal of this leadership theortyt is to enhance employee performance and employee satisfaction by focusing on employee motivation.
+* In contrast to the situational approach, which suggests that a leader must adapt to the development level of subordinates, and unlike contingency theory, which emphasizes the match between the leader's style and specific situational variables, path-goal theory emphasizes the relationship between the leader's style and the characteristics of the subordinates and the work setting. **The underlying assumption of path-goal theory is derived from expectancy theory, which suggests that subordinates will be motivated if they think they are capable of performing their work, if they believe their efforts will result in a certain outcome, and if they believe that the payoffs for doing their work are worthwhile.**
+* For the leader, the challenge is to use a leadership style that best meets subordinates' motivational needs. This is done by choosing behaviors that complement or supplement what is missing in the work setting. Leaders try to enhance subordinates' goal attainment by providing information or rewards in the work environment; leaders provide subordinates with the elements they think subordinates need to reach their goals.
+* According to House and Mitchel, leadership generates motivation when it increases the number and kinds of payoffs that subordinates receive from their work. Leadership also motivates **when it makes the path to the goal clear and easy to travel through coaching and direction, removing obstacles and roadblocks to attaining the goal, and making the work itself more personally satisfying**.
+* In brief, path-goal theory is designed to explain how leaders can help subordinates along the path to their goals by selecting specific behaviors that are best suited to subordinates' needs and to the situation in which subordinates are working. By choosing the appropriate style, leaders increase subordinates' expectations for success and satisfaction.
+* Figure 7.2 illustrates the different components of path-goal theory, including **leader behaviors, subordinate characteristics, task characteristics, and motivation**. Path-goal theory suggests that each type of leader behavior has a different kind of impact on suborindates' motivation. Whether a particular leader behavior is motivating to subordinates is contingent on the subordinates' characteristics and the characteristics of the task.
+
+#### Leader Behaviors
+* Although many different leadership behaviors could have been selected to be a part of path-goal theory, this approach has so far examined directive, supportive, participative, and achievement-oriented leadership behaviors. Path-goal theory is explicitly left open to the inclusion of other variables.
+
+#### Directive Leadership
+* Directive leadership is similar to the "initiating structure" concept described in the Ohio State studies and the "telling" style described in situational leadership. It characterizes a leader who gives subordinates instructions about their task, including what is expected of them, how it is to be done, and the time line for when it should be completed. A directive leader sets clear standard of performance and makes the rules and regulations clear to subordinates.
+
+#### Supportive Leadership
+* Supportive leadership resembles the consideration behavior construct that was identified by the Ohio State studies discussed in Chapter 4. Supportive leadership consists of being friendly and approachable as a leader and includes attending to the well-being and human needs of subordinates. Leaders using supportive behaviors go out of their way to make work pleasant for subordinates. In addition, supportive leaders treat subordinates as equals and give them respect for their status.
+
+#### Participative Leadership
+* Participative leadership consists of inviting subordinate to share in the decision making. A participative leader consults with subordinates, obtain their ideas opinions, and integrates their suggestions into the decisions about how the group or organization will proceed.
+
+#### Achievement-Oriented Leadership
+* Achievement-oriented leadership is characterized by a leader who challenges subordinates to perform work at the highest level possible. This leader establishes a high standard of excellence for suborindates and seeks continuous improvement. In addition to expecting a lot from subordinates, achievement-oriented leaders show a high degree of confidence that subordinates are capable of establishing and accomplishing challenging goals.
+
+===
+
+* House and Mitchel suggested that leaders might exhibit any of all of these four styles with various subordinates and in different situations. Path-goal theory is not a trait approach that locks leaders into only one kind of leadership. Leaders should adapt their styles to the situation or to the motivational needs of their subordinates. For example, if subordinates need participative leadership at one point in a task and directive leadership at another, the leader can change her or his style as needed. Different situations may call for different types of leadership behavior. Furthermore, there may be instances when it is appropriate for a leader to use more than one style at the same time.
+* In addition to leader behavior, Figure 7.2 illustrates two other major components of path-goal theory: subordinate characteristics and task characteristics. Each of these two sets of characteristics influences the way leaders' behaviors affect subordinate motivation. In other words, the impact of leadership is contingent on the characteristics of both subordinates and their task.
+
+#### Subordinate Characteristics
+* Subordinate characteristics determine how a leader's behavior is interpreted by subordinates in a given work context. Researchers
 
 # Chapter 12: Team Leadership
 
