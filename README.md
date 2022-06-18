@@ -1081,7 +1081,64 @@ Questions
 2. How do you think the employees at City Mortgage respond to Jenny?
 3. If you were asked to follow in Jenny's footsteps, do you think you could or would want to manage City Mortgage with a similar style?
 
-page 177
+### CASE 8.3: Taking on Additional Responsibilities
+* Jim Madison is manager of a district office for the Social Security Administration. The office serves a community of 200,000 people and has a staff of 30 employees, most of whom work as claim representatives. The primary work of the office is to provide the public with information about social security benefits and to process retirement, survivor, disability, and Medicare claims.
+* Jim has been the manager of the office for 6 years: during that time, he has made many improvement in the overall operations of the office. People in the community have a favorable view of the office hand have few complaints about the services it provides. On the annual survey of community service organizations, the district office receives consistently high marks for overall effectiveness and customer satisfaction.
+* Almost all of the employees who work for Jim have been employed as the district office for 6 years or more; one employee has been there for 22 years. Although Jim takes pride in knowing all of them personally, he calls on a few of them more frequently than others to help him accomplish his goals.
+* When it comes to training staff members about new laws affecting claim procedures, Jim relies heavily on two particular claim representatives, Shirley and Patti, both of whom are very knowledgeable and competent. Shirley and Patti view the additional training responsibilities as a challenge. This helps Jim: He does not need to do the job himself or supervise them closely because they are highly respected people within the office, and they have a history of being mature and conscientious about their work. Shirley and Patti like the additional responsibility because it gives them greater recognition and increased benefits from receiving positive job appraisals.
+* To showcase the office's services to the community, Jim calls on two other employees, Ted and Jana. Ted and Jana serve as field representatives for the office and give presentations to community organizations about the nature of social security and how it serves the citizens of the district. In addition, they speak on local radio stations, answering call-in questions about the various complexities of social security benefits.
+* Although many of the claim people in the office could act as field representatives, Jim typically calls on Ted and Jana because of their willingness to take on the public relations challenge and because of their special capabilities in this area. This is advantageous for Jim for two reasons: First, these people do an outstanding job in representing the office to the public. Second, Jim is a reticent person, and he finds it quite threatening to be in the public eye. Ted and Jana like to take on this additional role because it gives them added prestige and greater freedom. Being a field representative has its perks because field staff can function as their own bosses when they are not in the office; they can set their own schedules and come and go as they please.
+* A third area in which Jim calls on a few representatives for added effort is in helping him supervise the slower claim representatives, who seem to be continually behind in writing up the case reports of their clients. When even a few staff members get behind with their work, it affects the entire office operation. To ameliorate this problem, Jim calls on Glenda and Annie, who are both highly talented, to help the slower staff complete their case reports. Although it means taking on more work themselves, Glenda and Annie do it to be kind and to help the office run more smoothly. Other than personal satisfaction, no additional benefits accrue to them for taking on the additional responsibilities.
+* Overall, the people who work under Jim's leadership are satisfied with his supervision. There are some who feel that he caters too much to a few special representatives, but most of the staff think Jim is fair and impartial. Even though he depends more on a few, Jim tries very hard to attend to the wants and needs of his entire staff.
+
+Questions
+1. From an LMX theory point of view, how would you describe Jim's leadership at the district social security office?
+2. Can you identify an in-group and an out-group?
+3. Do you think the trust and respect Jim places in some of his staff are productive or counterproductive? Why?
+
+## LEADERSHUIP INSTRUMENT
+* Researchers have used many different questionnaires to study LMX theory. All of them have been designed to measure the quality of the working relationship between leaders and followers. We have chosen to include in this chapter the LMX 7, a seven-item questionnaire that provides a reliable and valid measure of the quality of leader-member exchanges.
+* The LMX 7 is designed to measure three dimensions of leader-member relationships: respect, trust, and obligation. It assesses the degree to which leaders and followers have mutual respect for each other's capabilities, feel a deepening sense of reciprocal trust, and have a strong sense of obligation to one another. Taken together, these dimension are the ingredients of strong partnerships
+
+LMX 7 Questionnaire
+* Instructions: This questionnaire contains items that ask you to describe your relationship with either your leader or one of your subordinates. For each of the items, indicate the degree to which you think the item is true for you by circling one of the responses that appear below the item.
+
+1. Do you know where you stand with your leader (follower)--and do you usually know hos satisfied your leader (follower) is with what you do?
+
+Rarely 1, Occasionally 2, Sometimes 3, Fairly often 4, Very often 5
+
+2. How well does your leader (follower) understand your job problems and needs?
+
+Not a bit 1, A little 2, A fair amount 3, Quite a bit 4, A great deal 5
+
+3. How well does your leader (follower) recognize your potential?
+
+Not at all 1, A little 2, Moderately 3, Mostly 4, Fully 5
+
+4. Regardless of how much formal authority your leader (follower) has built into his or her position, what are the chances that your leader (follower) would use his or her power to help you solve problems in your work?
+
+None 1, Small 2, Moderate 3, High 4, Very high 5
+
+5. Again, regardless of the amount of formal authority your leader (follower) has, what are the chances that he or she would "bail you out" at his or her expense?
+
+None 1, Small 2, Moderate 3, High 4, Very high 5
+
+6. I have enough confidence in my leader (follower) that I would defend and justify his or her decision if he or she were not present to do so.
+
+Strongly disagree 1, Disagree 2, Neutral 3, Agree 4, Strongly agree 5
+
+7. How would you characterize your working relationship with your leader (follower)?
+
+Extremely ineffective 1, Worse than average 2, average 3, better than average 4, extremely effective 5
+
+* By completing the LMX 7, you can gain a fuller understanding of how LMX theory works. The score you obtain on the questionnaire reflects the quality of your leader-member relationships, and indicates the degree to which your relationships are characteristic of partnership, as described in the LMX model.
+* You can complete the questionnaire both as a leader and as a subordinate. In the leader role, you would complete the quesionnaire multiple times, assessing the quality of the relationships you have with each of your subordinates. In the subordinate role, you would complete the quesitonnaire based on the leaders to whom you report.
+
+## Scoring Interpretation
+* Although the LMX 7 is most commonly used by researchers to explore theoretical questions, you can also use it to analyze your own leadership style. You can interpret your LMX 7 using the following guidelines: very high=30-35, high=25-29, moderate=20-24, low=15-19, very low=7-14. Scores in the upper ranges indicate stronger, higher-quality leader-member exchanges (e.g., in-group members), whereas scores in the lower ranges indicate exhcnages of lesser quality (e.g., out-group members)
+
+# Chapter 9: Transformational Leadership
+SKIM
 
 # Chapter 12: Team Leadership
 
@@ -1097,4 +1154,41 @@ page 177
 
 #### Team Leadership Model
 * The team leadership model proposed in this chapter places leadership in the driver's seat of team effectiveness. The model provides a mental road map to help the leader (or any team member who is providing leadership) diagnose team problems and take appropriate action to correct these problems.
-* Hill's Model for Team Leadership (Figure 12.1) **is based on the functional leadership claim that the leader's job is to monitor the team and then take whatever action is necesssary to ensure team effectiveness.** The model provides a tool for understanding the very complex phenomenon of team leadership, starting at the top with its initial leadership decisions, then moving to leader actions, and fianlly focusing on the indications of team effectiveness
+* Hill's Model for Team Leadership (Figure 12.1) **is based on the functional leadership claim that the leader's job is to monitor the team and then take whatever action is necesssary to ensure team effectiveness.** The model provides a tool for understanding the very complex phenomenon of team leadership, starting at the top with its initial leadership decisions, then moving to leader actions, and fianlly focusing on the indications of team effectiveness. hill's model attempts to integrate mediation and monitoring concepts with team effectiveness. In addition, the model prescribes specific actions that leaders can perform to improve team effectiveness. Effective team leaders need a wide repertoire of communication skills to monitor and take appropraite action. The model is designed to simplify and clarify the complex nature of team leadership and to provide an easy tool to aid leadership problem solving.
+* **Effective team performance begins with the leader's mental model of the situation. This mental model reflects not only the components of the problem confronting the team, but also the environmental and organizaitonal contingencies that define the larger context of team action. The leader develops a model of what the team problem is and what solutions are possible in this context, given the environmental and organizational constraints and resources.**
+* To respond appropriately to the problem envisioned in the mental model, a good leader needs to be behaviorally flexible and have a wide repertoire of actions of skills to meet the team's diverse needs. When the leader's behavior matches the complexity of the situation, he or she is bnehaving with "requisite variety", or the set of behaviors necessary to meet the group's needs. Effective team leaders are able to construct accurate mental models of the team's problems by observing team functioning, and can take requisite action to solve these problems.
+* The leader has special responsibility for functioning in a manner that will help the group achieve effectiveness. Within this perspective, leadership behavior is seen as team-based problem solving, in which the leader attempts to achieve team goals by analyzing the internal and external situation and then selecting and implementing the appropriate behaviors to ensure team effectiveness. In addition, Zaccaro et al. indicated that **leaders must use discretion about which problems need intervention, and make choices about which solutions are the most approrpriate. The appropriate solution varies by circumstance and focuses on what should be done to make the team more effective. Effective leaders have the ability to determine what leadership interventions are needed, if any, to solve team problems.
+
+```
+Figure 12.1. Hill's Model for Team Leadership
+
+Leadership Decisions: Monitor or Take Action, 2. Task or Relational, 3. Internal or External
+
+Internal Leadership Actions
+
+        Task: Goal Focusing, Structuring for Results, Facilitating Decisions, Training, Maintaining Standards
+
+        Relational: Coaching, Collaborating, Managing Conflict, Building Commitment, Satisfying Needs, Modeling Principles
+
+External Leadership Actions
+
+        Environmental: Networking, Advocating, Negotiating Support, Buffering, Assessing, Sharing Information
+
+Team Effectiveness: Performance, Development
+
+
+```
+
+#### Leadership Decisions
+* Figure 12.1 outlines the team leadership model. The first box at the top of the model, Leadership Decisions, lists the major decisions a leader needs to make when determining whether and how to intervene to improve team functioning. The first of these decisions is whether it is most appropriate to continue to observe and monitor the team or to intervene in the team's activities and take action. The second decision is to choose whether a task or a relational intervention is needed. (i.e., does the team need help in accomplishing its tasks, or does it need help in maintaining relationships?) The final decision is whether to intervene at the internal level (within the team itself) or at the external level (in the team's environment).
+
+###### Leadership Decision 1: 
+* Should I monitor the team or take action? The first decision confronting the leader is whether to keep monitoring the team or to take action to help the team. McGrath outlined the critical leadership functions of group effectiveness, taking into account the analysis of the situation both internally and externally and whether this analysis indicates that the leader should take an immediate action. Figure 12.2 McGrath's Critical Leadership Functions, demonstrates these two dimensions of leadership behavior: monitoring versus taking action and internal group issues versus external group issues. As leaders, we can **diagnose, analyze, or forecast problems (monitoring)**, or we can take immediate action to solve a problem. We can also focus on the problems within the group (internal) or problems outside of the gorup (external). These two dimensions result in the four types of group leadership functions shown in Figure 12.2.
+* The first two quadrants in Figure 12.2 focus on the internal operations of the team. In the first quadrant, **the leader is diagnosing group deficiencies, and in the second quadrant, the leader is acting to repair or remedy the observed problems**. The third and fourth qudrants focus on the external operations of the team. In the third quadrant, the leader is scanning the environment to determine and forecast any external changes that will affect the group. In the fourth quadrant, the leader acts to prevent any negative changes in the environment from hurting the team.
+* Therefore, **the first decision confronting the leader is "Should I continue monitoring these factors, or should I take action based on the information I have already gathered and structured?"** To develop an accurate mental model of team functioning, leaders need to monitor both the internal and external environments to gather information, reduce equivocality, provide structure, and overcome barriers. Fleishman et al. described two phases in this initial process: information search and structuring. A leader must first seek out information to undestand the current state of the team's functioning (information search), and then this information must be analyzed, organized, and **interpreted so the leader can decide how to act (information structuring).** **Leaders can also help their information search process by obtaining feedback from team members, networking with others outside the team, conducting team assessment surveys, and evaluating group outcomes.** Once information on the team is gathered, the leader needs to structure or interpret this information so that he or she can make action plans.
+* All members of the team can engage in monitoring (information search and structuring) and collectively provide distributed or shared leadership to help the team adapt to changing conditions. In fast-paced, rapidly changing situations, the team leader and members might have to work in concert to assess the situation accurately. The official leader of the team might be too busy processing information from the environment to process information internal to the team. The team members can help the leader by staying on top of internal problems. Together, they can form an accurate mental model of the team's effectiveness.
+* In addition to gathering and interpreting information, team leaders also must take the right action based on this information. **"Action mediation is at the heart of leadership because it involves selecting from among competing courses of action and helping the group create a system of organizing that allows it to make quality decisions"** Leaders differ in their tendencies to take action quickly or to delay taking action by analyzing the situation at length. Leades who prefer to take action might prevent problems from getting out of control. **However, they might not make the right intervention because they do not have all the information and such fast action might undermine the development of shared leadership.** Leaders who prefer to carefully analyze the situation might encourage other team members to emerge as leaders, but the problem might become unmanageable. The exact timing of a leadership intervention is as important as the specific type of intervention.
+
+###### Leadership Decision 2: 
+* Should I intervene to meet task or relational needs? The second decision confronting the leader is whether the team needs help in dealing with relational issues or task issues. Since the early study or small groups, the focus has been on two critical leadership functions: task and maintenance. Task leadership functions include getting the job done, making decisions, solving problems, adapting to changes, making plans, and achieving goals. Maintenance functions include developing a positive climate, solving interpersonal problems, satisfying members' needs, and developing cohesion. Later scholars studying intact work teams also refer to these functions in terms of performance and development (i.e., how well the team has accomplished its task and how well the team has developed effective relationships)
+* Super
