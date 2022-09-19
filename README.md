@@ -1191,4 +1191,81 @@ Team Effectiveness: Performance, Development
 
 ###### Leadership Decision 2: 
 * Should I intervene to meet task or relational needs? The second decision confronting the leader is whether the team needs help in dealing with relational issues or task issues. Since the early study or small groups, the focus has been on two critical leadership functions: task and maintenance. Task leadership functions include getting the job done, making decisions, solving problems, adapting to changes, making plans, and achieving goals. Maintenance functions include developing a positive climate, solving interpersonal problems, satisfying members' needs, and developing cohesion. Later scholars studying intact work teams also refer to these functions in terms of performance and development (i.e., how well the team has accomplished its task and how well the team has developed effective relationships)
-* Super
+* Superior team leadership focuses constantly on both task and maintenace functions; both types of leadership behaviors (task-focused and person-focused) have been found to be related to perceived team effectiveness.
+* Task (performance) functions are closely interrelated with maintenance (development) functions. If the team is well maintained and has good relationships, then the members wil lbe able to work together effective and get their job done. Similarly, if the team is productive and successful in accomplishing its task, it will be easier to maintain a positive climate and good relations. Conversely, failing team often take thier lack of performance out on each other, and fighting teams often accomplish little.
+* In virtual teams connected across time and space by electronic media, focusing on building team relationships is even more critical than in traditional colocated teams. "Virtual team leaders must be able to 'read' all the personal and contextual nuances in a world of electronic communications. They must be able to understand the possible causes of silence, misunderstanding, and slights without any of the usual signs to guide them. Leaders must be sensitive to the "flow" of team processes, paying attention to the smallest matters to head off potential troubles that could derail the team's task". Virtual teams place evevn greater demands on team leaders than the more traditional colocated team demanding 50% more time investment. As the prevalence of virtual teams expands, specific leadership issues and interventions related to these virtual teams are increasingly the focus of study.
+
+###### Leadership Decision 3:
+* Should I intervent internally or externally? If a decision was made to take action or intervene, the leader must make the third strategic leadreship decision in Figure 12.1 and determine what level of the team process needs leadership attention: internal leadership actions or external leadership actions.
+* Effective team leaders analyze and balance the internal and external demands of the team and react appropriately. Is there internal conflict between members of the group? Then perhaps taking an internal relational action to maintain the group and improve interpersonal relationships would be most appropriate. Or are the team goals unclear? Then perhaps an internal task intervention is needed to focus on goals. Is the organizational environment not providing proper support to the team to do its job? Then perhaps an external environmental intervention focusing on obtaining external support for the team might be the most appropriate intervention. The current focus of research is on real-life organizational work teams that exist in a larger organizational environment. In addition to balancing the internal task and relational needs of the team, the leader has to help the team adapt to its external environment. Most teams focus on the internal problems of the team. But it is increasingly important for teams to also be externally oriented to "reach across boundaries to forge dense networks of connection, both inside and outside the organization" so that they can deal effectively with the fast changing environment.
+
+### Leadership Actions
+* The next section of Hill's Model of Team Leadership lists a number of specific leadership actions that can be performed internally (task, oriented) or externally (environmental). These lists are not exhaustive but are compiled from research on team excellence and team performance to be discussed later in this chapter. For example, teams that have clear goals and standards and effective structure and decision making will have higher task performance. Teams that can manage conflict, collaborate well together, and build commitment will have good relationships. Teams that are well connected to and protected from their environment will also be more productive. It is up to the leader to assess what action, if any, is needed and then intervene with the specific leadership function to meet the demands of the situation. The leader needs the ability to perform these skills and to make a strategic choice as to the most appropriate function or skill for the intervention. For example, if the leader decided that team members were not getting along, he or she might decide to initiate conflict management. **To be an effective leader, one needs to respond with the action that is required of the situation.** Thus, it is the job of the leader to analyze and mediate the situation to make the best decisions for the good of the team.
+* A team leader needs to recognize and interpret what is getting in the way of the team's goal accomplishment and then make a strategic choice and respond with the appropriate action. If a problem is diagnosed as a team performance probelm, then the leader needs to determine the appropriate action to solve this task problem (e.g., **goal focusing, standard setting, or training**). If a problem is diagnosed as a team development problem, then the leader needs to determine the appropriate action to solve this relational problem (e.g., managing conflict or building commitment). If a problem is diagnosed as an environmental problem, then the leader needs to determine the appropriate action to solve this context problem (e.g., networking, advocating, or sharing information)
+
+###### Internal Task Leadership Actions
+* The task box on Hills' Model for Teams Leadership lists the set of skills or actions that the leader might perform to improve task performance
+
+```
+* Goal focusing (clarifying, gaining agreement)
+* Structuring for results (planning, visioning, organizing, clarifying roles, delegating)
+* Facilitating decision making (informing, controlling, coordinating, mediating, synthesizing, focusing on issues)
+* Training team members in task skills (educating, developing)
+* Maintaining standards of excellence (assessing team and individual performance, confronting inadequate performance)
+```
+
+* For example, if after monitoring the team's performance the leader observes that the team members do not have the skills necessary for the task, then the leader might choose an intervention to educate the team members or provide them with necessary skills or professional development (training). If the leader observes that the team is not clear as to its focus or goals, then he or she might intervene to clarify goals or work with team members to obtain agreement on goals (goal focusing). If the leader observes that some team members are coming to work late or not attending important meetings, then the leader might have to take direct action to address this inadequate performance (standard setting). If the leader determines that the team is stuck in day-to-day affairs and not looking to or building for the future, then he or she might intervene by helping the team vision and helping to plan for the future (structuring for results)
+
+###### Internal Relational Leadership Actions
+* The second set of internal leadership actions in Figure 12.1 reflects those that the leader needs to implement to improve team relationships
+
+```
+* Coaching team members in interpersonal skills
+* Collaborating (including, involving)
+* Managing conflict and power issues (avoiding confrontation, questioning ideas)
+* Building commitment and esprit de corp (being optimistic, innovating, envisioning, socializing, rewarding, recognizing)
+* Satisfying individual member needs (trusting, supporting, advocating)
+* Modeling ethical and principled practices (fair, consistent, normative)
+```
+
+* If, after monitoring the relationships between team members, the leader observes that some of the group members are engaged in interpersonal conflict, then the leader should intervene to manage that conflict (managing conflict and power issues). Or if the team seems down in the dumps, the leader should try to build commitment and unity by recognizing past team successes (building commitment and esprit de corps). If team members do not seem to be able to communicate effectively, then the leader might intervene by coaching team members in appropriate behaviors (coaching)
+
+###### External Environmental Leadership Actions
+* The external leadership actions (Figure 12.1) reflect those actions the leader might implement to improve the environmental interfact with the team. Real-life teams do not exist in a laboratory--they are subsystems of the larger organizational and societal context. To stay viable, the team needs to monitor this environment closely and determine what actions should be taken to enhance team effectiveness. If environmental monitoring suggests a leadership intervention, then the leader needs to select from the following functions:
+
+```
+* Networking and forming alliances in environment (gathering information, increasing influence)
+* Advocating and representing team to environment
+* Negotiating upward to secure necessary resources, support, and recognition for team
+* Buffering team members from environmental distractions
+* Assessing environmental indicators of team's effectiveness (surveys, evaluations, performance indicators)
+* Sharing relevant environmental information with team
+```
+
+* If after monitoring the environment the leader learns that the organizational superiors are unaware of the team's successes, she or he might initiate an "FYI" policy, sending information about all successes upward as they happen (advocating and representing team to environment). The leader can also initiate a team newsletter that chronicles team efforts to accomplish the same function but to a broader context. Alternatively, the leader might determine taht the team does not have enough clerical support to accomplish its goals. The leader then negotiate with upper management to provide the needed support or to alter the goals accordingly (negotiating upward to secure necessary resources)
+* Team leadership is complex; there are no simply recipes for team success. Team leaders must learn to be open and objective in understanding and diagnosing team problems and skillful in selecting the most appropriate ations (or inactions) to help achieve the team's goals. It is important to note that these critical functions need not be carried out only by the leader. Experienced members in a mature team might share these leadership behavior, whether enacted by the leader or team members, has been effective. The key assertion of the functional perspective is that the leader is to do whatever is necessary to take care of unmet needs of the group. If the group members are taking care of most of the needs, then the leader has to do very little.
+
+### Team Effectiveness
+* The box at the bottom of Hill's Model for Team Leadership (see Figure 12.1) focuses on team effectiveness, or the desired outcome of teamwork. Two critical functions of team effectiveness are listed: performance (task accomplishment) and development (maintenance of team). team performance is the "quality of decision making, the ability to implement decisions, the outcomes of teamwork in terms of problems solved and work completed, and finally the quality of institutional leadership provided by the team. Team development is the cohesiveness of the team and the ability of group members to satisfy their own needs while working effectively with other team members.
+* Researchers have systematically studied organizational work teams and developed standards of effectiveness or criteria of excellence that can be used to assess a team's health. Hackman and Walton suggested criteria necessary for effectiveness of task-performing teams in organizations. They found that effective groups have a clear, engaging direction; an enabling performance situation that contains structure, support, and coaching, and adequate resources.
+* Larson and LaFasto studied real-life successful teams and found that, regardless of the type of team, eight characteristics were consistently associated with team excellence. Table 12.1 demonstrates the similarity of these characteristics to the theoretical components suggested by Hackman and Walton, providing grounded research support for the group effectiveness approach
+
+```
+Table 12.1 Comparison of Theory and Reseach Criteria
+
+Conditions of Group Effectiveness (1986)
+        * Clear, engaging direction
+        * Enabling structure
+        * Enabling context
+        * Adequate material resources
+        * Expert coaching
+
+Characteristics of Team Excellence
+        * Clear, elevating goal
+        * Results-driven structure
+        * Competent team members
+        * Unified commitment
+        * Collaborative climate
+        * Standards of excellence
+        * External support and recognition
+        * Principled leadership
